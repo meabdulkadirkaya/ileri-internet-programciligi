@@ -1,0 +1,3 @@
+Adım Soyadım: ABDULKADİR KAYA
+Okul: GELİŞİM MESLEKİ YÜKSEK OKULU
+Programlama Dilleri: PHP
