@@ -1,0 +1,16 @@
+<xml>
+    <personel>
+        <adsoyad>Abdulkadir Kaya</adsoyad>
+        <gorevi>Founder</gorevi>
+    </personel>
+
+    <personel>
+        <adsoyad>Yunus Emre Şahintürk</adsoyad>
+        <gorevi>Co-Founder</gorevi>
+    </personel>
+
+    <personel>
+        <adsoyad>Mehmet Emir İş</adsoyad>
+        <gorevi>Co-Founder</gorevi>
+    </personel>
+</xml>
